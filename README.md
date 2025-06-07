@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![image alt](https://github.com/JANANI149/moodtuneapp/blob/24de1f1451ce8c562c94cd9040daa809b93bbd71/IMG_20250504_194929.jpg)
